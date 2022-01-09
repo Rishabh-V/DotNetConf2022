@@ -1,6 +1,6 @@
 # .NET Conf 2022 - Bhubaneshwar (9th Jan 2022)
 
-My session in .NET Conf Bhubaneshwar 2022 on "Extending Visual Studio in 40 minutes"
+.NET Conf Bhubaneshwar 2022 session on  "Extending Visual Studio in 40 minutes" by Rishabh Verma
 
 Slides as well as code are in this same repository
 
